@@ -44,3 +44,24 @@ Contributions to this project are welcome! If you find any issues or have sugges
 This project is released under the MIT License. You can find the full license text in the LICENSE file.
 
 Please modify the description to accurately reflect the details and purpose of your specific project. A comprehensive README will help users and contributors understand your project better and encourage collaboration.
+
+## Skills Demonstrated
+
+- **Go (Golang) Programming**: Developed a robust RESTful API using Go, showcasing proficiency in the language and its core concepts.
+
+- **API Design**: Designed and implemented user-friendly API endpoints for user management, ensuring clear and intuitive interactions.
+
+- **Database Integration**: Integrated PostgreSQL database to store and retrieve user data, demonstrating skills in database management.
+
+- **CRUD Operations**: Implemented CRUD functionalities for users, allowing seamless manipulation of user data.
+
+- **HTTP Handling**: Utilized the net/http package to handle HTTP requests and responses, enabling effective communication with clients.
+
+- **Routing and Parameter Handling**: Leveraged the github.com/gorilla/mux package for routing and parameter handling, optimizing API routing.
+
+- **Problem-Solving**: Addressed challenges in API development, data storage, and handling user requests to achieve project goals.
+
+- **Quality Assurance**: Ensured code quality through testing and debugging, resulting in a stable and reliable API.
+
+
+
